@@ -1,0 +1,182 @@
+2025-2026:
+  - Cathedral Concert Series:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - location: Cathedral of the Most Sacred Heart of Jesus
+          date: 05/07/2026
+      reportoire:
+        - title: O Praise the Lord (Psalm 117)
+          composer: Daniel Knaggs
+        - title: Kyrie from Missa O Quam Gloriosum
+          composer: Tomas da Victoria
+        - title: Gloria from Missa O Quam Gloriosum
+          composer: Tomas da Victoria
+        - title: Praise Our Lord, All Ye Gentiles
+          composer: William Byrd
+        - title: I Sit Before Flowers
+          composer: Vincke
+        - title: Beautitudes No. 6 (The Pure in Heart)
+          composer: Patrick Hawes
+        - title: I Thank You God
+          composer: Christopher Aspaas
+        - title: Loch Lomond
+          composer: Christopher Alexander
+        - title: Wild Mountain Thyme
+          composer: Eion Conway
+        - title: The Maid of Culmore
+          composer: Kevin Whyms
+        - title: Courting is a Pleasure
+          composer: Desmond Earley
+        - title: I've Been in the Storm
+          composer: Ames
+        - title: Climbin Up the Mountain
+          composer: Gibbs
+  - Chorale Christmas:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: Second Presbyterian Church
+          date: 12/07/2025
+      repertoire:
+        - title: Hodie Christus Natus Est
+          composer: J. P. Sweelinck
+        - title: The First Noel
+          composer: Andrew Huish
+        - title: Christmastide
+          composer: David L. Brunner
+        - title: There is No Rose
+          composer: Connor Koppin
+        - title: I Wonder as I Wander
+          composer: Kyle Pederson
+        - title: O Magnum Mysterium
+          composer: Morten Lauridsen
+        - title: Tidings of Comfort and Joy
+          composer: Steve Parsons
+        - title: Candlelight Carol
+          composer: John Rutter
+        - title: Angel's Carol
+          composer: John Rutter
+        - title: Ding Dong! Merrily on High
+          composer: Charles Wood
+        - title: What Sweeter Music
+          composer: John Rutter
+        - title: Winter Wonderland
+          composer: arr. Greg Jasperse
+        - title: Have Yourself a Merry Little Christmas
+          composer: arr. Jay Althouse
+  - Sacred Sounds for Sacred Spaces:
+      group: Knoxville Choral Society, Knoxville Chamber Chorale
+      concerts:
+        - name: Cathedral of the Most Sacred Heart of Jesus
+        - date: 10/30/2025
+      repertoire:
+        - title: Come, Let's Rejoice
+          composer: John Amner
+        - title: I Thank You God
+          composer: Christopher Aspaas
+        - title: I've Been in the Storm
+          composer: Ames
+        - title: Norwegian Alleluia
+          composer: Kim Andre Arnesen
+  - The Glory of Autumn:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: Fountain City United Methodist Church
+          date: 10/02/2025
+      repertoire:
+        - title: Come, Let's Rejoice
+          composer: John Amner
+        - title: Norwegian Alleluia
+          composer: Kim Andre Arnesen
+        - title: I Thank You God
+          composer: Christopher Aspaas
+        - title: The Blue Ridge
+          composer: Elaine Hagenberg
+        - title: Melancholy Flower
+          composer: Craig Goodwin, Naomi LaViolette
+        - title: The Kiss
+          composer: David Childs
+        - title: Lighted Ever Onward
+          composer: Brandon Martell
+        - title: Autumn
+          composer: Kevin A. Memley
+        - title: Something Told the Wild Geese
+          composer: Andy Beck
+        - title: October Sun
+          composer: Daniel Elder
+        - title: I've Been in the Storm
+          composer: Ames
+        - title: Climbin Up the Mountain
+          composer: Gibbs
+2024-2025:
+  - The Gladness of the May:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: Cathedral of the Most Sacred Heart of Jesus
+          date: 05/01/2025
+      repertoire:
+        - title: Solve Jubente Deo
+          composer: William Byrd
+        - title: Justorum Animae
+          composer: William Byrd
+        - title: Psalm 100, Jauchzet dem Herrn, alle Welt
+          composer: Felix Mendelssohn
+        - title: Psalm 43, Richte mich, Gott
+          composer: Felix Mendelssohn
+        - title: I Sat Down Under His Shadow
+          composer: Edward Bairstow
+        - title: Alleluia
+          composer: Randall Thompson
+        - title: Supermarket Flowers
+          composer: arr. Van der Merwe
+        - title: Let My Love Be Heard
+          composer: Jake Runestad
+        - title: Lighted Ever Onward
+          composer: Brandon Martel
+        - title: Calling from Afar
+          composer: James Eakin III
+        - title: Lunar Lullaby
+          composer: Jacob Narverud
+        - title: There Was a Time
+          composer: Eric William Barnum
+2022-2023:
+  - Spring Concert:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: Fountain City United Methodist Church
+          date: 05/05/2023
+      repertoire:
+        - title: O Quam Gloriosum
+          composer: Tomas da Victoria
+        - title: Lobet Den Herrn, Alle Heiden
+          composer: Johan Sebastian Bach
+        - title: Locus Iste
+          composer: Anton Bruckner
+        - title: Os Justi
+          composer: Anton Bruckner
+        - title: My Love Dwelt in a Northern Land
+          composer: Edward Elgar
+        - title: Stopping by Woods
+          composer: Matthew Culloton
+        - title: Goodnight Moon
+          composer: Eric Whitacre
+        - title: Stars Tonight
+          composer: Judith Harrington
+        - title: Underneath the Stars
+          composer: arr. Jim Clements
+2021-2022:
+  - On My Way:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: Central Bearden Church
+          date: 02/17/2022
+      repertoire:
+        - title: Stopping By Woods
+          composer: Matthew Culloton
+        - title: Stars Tonight
+          composer: Judith Harrington
+        - title: Wild Mountain Thyme
+          composer: arr. Eoin Conway
+        - title: Mama Said
+          composer: arr. Paul Rardin
+        - title: The Times They Are A-Changin'
+          composer: arr. Adam Podd
