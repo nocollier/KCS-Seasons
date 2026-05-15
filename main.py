@@ -37,8 +37,6 @@ def main():
 2022-2023
 10/20/2022 - CONCERT: St. John's Episcopal Cathedral - 7:30p.m.
 
-
-
 """
 
 if __name__ == "__main__":

@@ -170,7 +170,7 @@
   - Christmas Concert:
       group: Knoxville Chamber Chorale
       concerts:
-        - name: Church Street United Methodist Church?
+        - name: Ball Camp Baptist?
           date: 12/08/2023
   - Fall Concert:
       group: Knoxville Chamber Chorale
@@ -229,6 +229,11 @@
           composer: Judith Harrington
         - title: Underneath the Stars
           composer: arr. Jim Clements
+  - Christmas Concert:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: Church Street United Methodist Church?
+          date: 12/09/2022
 2021-2022:
   - On My Way:
       group: Knoxville Chamber Chorale
