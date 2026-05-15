@@ -46,7 +46,7 @@
           date: 11/30/2025
       repertoire:
         - title: Messiah
-          composer: Handel
+          composer: Georg Friederich Händel
   - Sacred Sounds for Sacred Spaces:
       group: Knoxville Choral Society, Knoxville Chamber Chorale
       concerts:
@@ -125,7 +125,7 @@
           date: 12/01/2024
       repertoire:
         - title: Messiah
-          composer: Handel
+          composer: Georg Friederich Händel
   - Masterworks:
       group: Knoxville Choral Society
       concerts:
@@ -139,71 +139,71 @@
         - title: Miss in Tempori Belli
           composer: Joseph Haydn
 2023-2024:
-  The Lost Birds:
-    group: Knoxville Choral Society
-    concerts:
-      - name: Central Bearden Church
-        date: 03/01/2024
-    repertoire:
-      - title: The Lost Birds, An Extinction Elegy
-        composer: Christopher Tin
+  - The Lost Birds:
+      group: Knoxville Choral Society
+      concerts:
+        - name: Central Bearden Church
+          date: 03/01/2024
+      repertoire:
+        - title: The Lost Birds, An Extinction Elegy
+          composer: Christopher Tin
 2021-2022:
-  On My Way:
-    group: Knoxville Choral Society
-    concerts:
-      - name: Central Bearden Church
-        date: 02/17/2022
-    repertoire:
-      - title: Sweet Rivers
-        composer: Shawn Kirchner
-      - title: Skip to My Lou
-        composer: arr. Edwin Fissinger
-      - title: The Water is Wide
-        composer: arr. Stephen Paulus
-      - title: Johnny Has Gone for a Soldier
-        composer: arr. Robert DeCormier
-      - title: Shady Grove
-        composer: arr. Andrew Duncan
-      - title: I'll Be on My Way
-        composer: Shawn Kirchner
-  Together:
-    group: Knoxville Choral Society
-    concerts:
-      - name: Community Church at Tellico Village
-        date: 11/04/2021
-      - name: Central Bearden Church
-        date: 11/05/2021
-    repertoire:
-      - title: Glory
-        composer: Nikolai Rimsky-Korsakov
-      - title: Requiem
-        composer: John Rutter
-      - title: Joy
-        composer: Hans Bridger Heruth
-      - title: If You Want to Hold My Hand
-        composer: Kyle Pederson
-      - title: A Reason to Sing
-        composer: Rob Swenson
-      - title: Flood the Gold Earth
-        composer: David Von Kampen
-      - title: Emerald Stream
-        composer: Seth Houston
-      - title: The Blue Ridge
-        composer: Elaine Hagenberg
-      - title: America the Beautiful
-        composer: arr. Frank La Rocca
+  - On My Way:
+      group: Knoxville Choral Society
+      concerts:
+        - name: Central Bearden Church
+          date: 02/17/2022
+      repertoire:
+        - title: Sweet Rivers
+          composer: Shawn Kirchner
+        - title: Skip to My Lou
+          composer: arr. Edwin Fissinger
+        - title: The Water is Wide
+          composer: arr. Stephen Paulus
+        - title: Johnny Has Gone for a Soldier
+          composer: arr. Robert DeCormier
+        - title: Shady Grove
+          composer: arr. Andrew Duncan
+        - title: I'll Be on My Way
+          composer: Shawn Kirchner
+  - Together:
+      group: Knoxville Choral Society
+      concerts:
+        - name: Community Church at Tellico Village
+          date: 11/04/2021
+        - name: Central Bearden Church
+          date: 11/05/2021
+      repertoire:
+        - title: Glory
+          composer: Nikolai Rimsky-Korsakov
+        - title: Requiem
+          composer: John Rutter
+        - title: Joy
+          composer: Hans Bridger Heruth
+        - title: If You Want to Hold My Hand
+          composer: Kyle Pederson
+        - title: A Reason to Sing
+          composer: Rob Swenson
+        - title: Flood the Gold Earth
+          composer: David von Kampen
+        - title: Emerald Stream
+          composer: Seth Houston
+        - title: The Blue Ridge
+          composer: Elaine Hagenberg
+        - title: America the Beautiful
+          composer: arr. Frank La Rocca
 2019-2020:
-  Stargazer:
-    group: Knoxville Choral Society
-    concerts:
-      - name: Central Bearden Church
-        date: 03/12/2020
-    repertoire:
-      - title: Seek Him that Maketh the Seven Stars
-        composer: Jonathan Dove
-      - title: Sunrise Mass
-        composer: Ola Gjeilo
-      - title: Lux Nova
-        composer: Eric Whitacre
-      - title: Five Mystical Songs
-        composer: Ralph Vaughan Williams
+  - Stargazer:
+      group: Knoxville Choral Society
+      concerts:
+        - name: Central Bearden Church
+          date: 03/12/2020
+      repertoire:
+        - title: Seek Him that Maketh the Seven Stars
+          composer: Jonathan Dove
+        - title: Sunrise Mass
+          composer: Ola Gjeilo
+        - title: Lux Nova
+          composer: Eric Whitacre
+        - title: Five Mystical Songs
+          composer: Ralph Vaughan Williams

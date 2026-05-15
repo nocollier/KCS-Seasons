@@ -4,7 +4,7 @@
       concerts:
         - location: Cathedral of the Most Sacred Heart of Jesus
           date: 05/07/2026
-      reportoire:
+      repertoire:
         - title: O Praise the Lord (Psalm 117)
           composer: Daniel Knaggs
         - title: Kyrie from Missa O Quam Gloriosum
@@ -22,7 +22,7 @@
         - title: Loch Lomond
           composer: Christopher Alexander
         - title: Wild Mountain Thyme
-          composer: Eion Conway
+          composer: Eoin Conway
         - title: The Maid of Culmore
           composer: Kevin Whyms
         - title: Courting is a Pleasure
@@ -131,7 +131,7 @@
         - title: Let My Love Be Heard
           composer: Jake Runestad
         - title: Lighted Ever Onward
-          composer: Brandon Martel
+          composer: Brandon Martell
         - title: Calling from Afar
           composer: James Eakin III
         - title: Lunar Lullaby
@@ -147,7 +147,7 @@
       repertoire:
         - title: O Quam Gloriosum
           composer: Tomas da Victoria
-        - title: Lobet Den Herrn, Alle Heiden
+        - title: Lobet Den Herrn Alle Heiden
           composer: Johan Sebastian Bach
         - title: Locus Iste
           composer: Anton Bruckner
@@ -170,7 +170,7 @@
         - name: Central Bearden Church
           date: 02/17/2022
       repertoire:
-        - title: Stopping By Woods
+        - title: Stopping by Woods
           composer: Matthew Culloton
         - title: Stars Tonight
           composer: Judith Harrington
