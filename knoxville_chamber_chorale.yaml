@@ -138,6 +138,72 @@
           composer: Jacob Narverud
         - title: There Was a Time
           composer: Eric William Barnum
+  - Fall Concert:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: Episcopal Church of the Ascension
+          date: 10/03/2024
+      repertoire:
+        - title: Norwegian Alleluia
+          composer: Kim Andre Arnesen
+        - title: Hark all Ye Lovely Saints Above
+          composer: Weelkes
+        - title: Adieu Sweet Amaryllis
+          composer: Willbye
+        - title: Fair Phyllis I Saw Sitting all Alone
+          composer: Farmer
+        - title: I Thank You God
+          composer: Christopher Aspaas
+        - title: Melancholy Flower
+          composer: Craig Goodwin, Naomi LaViolette
+        - title: Calling from Afar
+          composer: James Eakin III
+        - title: Ballad to the Moon
+          composer: Elder
+        - title: Lunar Lullaby
+          composer: Jacob Narverud
+        - title: The Times They Are A-Changin'
+          composer: Adam Podd
+        - title: There Was a Time
+          composer: Eric William Barnum
+2023-2024:
+  - Christmas Concert:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: Church Street United Methodist Church?
+          date: 12/08/2023
+  - Fall Concert:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: Cathedral of the Most Sacred Heart of Jesus
+          date: 10/22/2023
+      repertoire:
+        - title: There Was a Time
+          composer: Eric William Barnum
+        - title: Praise Our Lord, All Ye Gentiles
+          composer: William Byrd
+        - title: Justorum Animae
+          composer: William Byrd
+        - title: Gaudeamus Omnes
+          composer: William Byrd
+        - title: Lobet Den Herrn Alle Heiden
+          composer: Johan Sebastian Bach
+        - title: Os Justi
+          composer: Anton Bruckner
+        - title: Christus Factus Est
+          composer: Anton Bruckner
+        - title: Long Road
+          composer: Esenvalds
+        - title: Only in Sleep
+          composer: Esenvalds
+        - title: I Thank You God
+          composer: Christopher Aspaas
+        - title: Hold On
+          composer: Chester Alwes
+        - title: Steal Away
+          composer: Chester Alwes
+        - title: Plenty Good Room
+          composer: Chester Alwes
 2022-2023:
   - Spring Concert:
       group: Knoxville Chamber Chorale
