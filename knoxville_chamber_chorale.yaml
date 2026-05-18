@@ -234,6 +234,11 @@
       concerts:
         - name: Church Street United Methodist Church?
           date: 12/09/2022
+  - Fall Concert:
+      group: Knoxville Chamber Chorale
+      concerts:
+        - name: St. Johns Cathedral
+          date: 10/20/2022
 2021-2022:
   - On My Way:
       group: Knoxville Chamber Chorale

@@ -8,7 +8,7 @@
           date: 04/25/2026
       repertoire:
         - title: Zadok the Priest
-          composer: Georg Friederich Händel
+          composer: Georg Friederich Handel
         - title: Regina Coeli (KV 276)
           composer: Wolfgang Amadeus Mozart
         - title: Psalm 148
@@ -46,7 +46,7 @@
           date: 11/30/2025
       repertoire:
         - title: Messiah
-          composer: Georg Friederich Händel
+          composer: Georg Friederich Handel
   - Sacred Sounds for Sacred Spaces:
       group: Knoxville Choral Society, Knoxville Chamber Chorale
       concerts:
@@ -125,7 +125,7 @@
           date: 12/01/2024
       repertoire:
         - title: Messiah
-          composer: Georg Friederich Händel
+          composer: Georg Friederich Handel
   - Masterworks:
       group: Knoxville Choral Society
       concerts:
@@ -139,6 +139,16 @@
         - title: Miss in Tempori Belli
           composer: Joseph Haydn
 2023-2024:
+  - KSO Masterworks, Verdi's Requiem:
+      group: Knoxville Symphony Orchestra, Knoxville Choral Society
+      concerts:
+        - name: Tennesse Theater
+          date: 05/16/2024
+        - name: Tennesse Theater
+          date: 05/17/2024
+      repertoire:
+        - title: Requiem
+          composer: Verdi
   - The Lost Birds:
       group: Knoxville Choral Society
       concerts:
@@ -147,6 +157,84 @@
       repertoire:
         - title: The Lost Birds, An Extinction Elegy
           composer: Christopher Tin
+  - Messiah:
+      group: Knoxville Symphony Orchestra, Knoxville Choral Society
+      concerts:
+        - name: Tennesse Theater
+          date: 11/26/2023
+      repertoire:
+        - title: Messiah
+          composer: Georg Friederich Handel
+  - Fall Concert:
+      group: Knoxville Choral Society
+      concerts:
+        - name: Central Bearden Church
+          date: 11/03/2023
+        - name: Community Church at Tellico Village
+          date: 11/05/2023
+      repertoire:
+        - title: My Spirit is Uncaged
+          composer: Paul Rardin
+        - title: Empire of Blue
+          composer: Rob Dietz
+        - title: Hurt
+          composer: Eric Whitacre
+        - title: Where is Love
+          composer: arr. Joshua Shank
+        - title: In Love with You
+          composer: Alec Powell
+        - title: Death Came A-Knockin'
+          composer: arr. Paul Rardin
+        - title: Didn't My Lord Deliver Daniel
+          composer: arr. Aaron Dale
+        - title: Measure Me, Sky!
+          composer: Elaine Hagenberg
+        - title: Does the World Say?
+          composer: Kyle Pederson
+        - title: Will the Circle Be Unbroken?
+          composer: arr. J. David Moore
+        - title: Let the River Run
+          composer: arr. Craig Hella Johnson
+        - title: Sing Gently
+          composer: Eric Whitacre
+2022-2023:
+  - KSO Masterworks, Mozart's Requiem:
+      group: Knoxville Symphony Orchestra, Knoxville Choral Society
+      concerts:
+        - name: Tennesse Theater
+          date: 04/20/2023
+        - name: Tennesse Theater
+          date: 04/21/2023
+      repertoire:
+        - title: Requiem
+          composer: Wolfgang Amadeus Mozart
+  - Winter Concert:
+      group: Knoxville Choral Society
+      concerts:
+        - name: Cathedral of the Most Sacred Heart of Jesus
+          date: 02/17/2023
+      repertoire:
+        - title: Missa Brevis
+          composer: Joseph Haydn
+        - title: Missa Solemnis
+          composer: Wolfgang Amadeus Mozart
+        - title: Magnificat
+          composer: Taylor Scott Davis
+  - Messiah:
+      group: Knoxville Symphony Orchestra, Knoxville Choral Society
+      concerts:
+        - name: Tennesse Theater
+          date: 11/27/2022
+      repertoire:
+        - title: Messiah
+          composer: Georg Friederich Handel
+  - Fall Concert:
+      group: Knoxville Choral Society
+      concerts:
+        - name: Central Bearden Church
+          date: 11/04/2022
+        - name: Community Church at Tellico Village
+          date: 11/06/2022
 2021-2022:
   - On My Way:
       group: Knoxville Choral Society
