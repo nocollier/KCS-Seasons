@@ -211,15 +211,8 @@
   - Winter Concert:
       group: Knoxville Choral Society
       concerts:
-        - name: Cathedral of the Most Sacred Heart of Jesus
+        - name: Central Bearden Church
           date: 02/17/2023
-      repertoire:
-        - title: Missa Brevis
-          composer: Joseph Haydn
-        - title: Missa Solemnis
-          composer: Wolfgang Amadeus Mozart
-        - title: Magnificat
-          composer: Taylor Scott Davis
   - Messiah:
       group: Knoxville Symphony Orchestra, Knoxville Choral Society
       concerts:
@@ -231,11 +224,38 @@
   - Fall Concert:
       group: Knoxville Choral Society
       concerts:
-        - name: Central Bearden Church
+        - name: Cathedral of the Most Sacred Heart of Jesus
           date: 11/04/2022
-        - name: Community Church at Tellico Village
-          date: 11/06/2022
+      repertoire:
+        - title: Missa Brevis
+          composer: Joseph Haydn
+        - title: Missa Solemnis
+          composer: Wolfgang Amadeus Mozart
+        - title: Magnificat
+          composer: Taylor Scott Davis
 2021-2022:
+  - Spring Concert:
+      group: Knoxville Choral Society
+      concerts:
+        - name: Central Bearden Church
+          date: 04/29/2022
+      repertoire:
+        - title: Hallelujah Chorus
+          composer: Ludwig van Beethoven
+        - title: Lobet den Herrn, alle Heiden
+          composer: Johann Sebastian Bach
+        - title: The Heavens are Telling
+          composer: Joseph Haydn
+        - title: Achieved is the Glorious Work
+          composer: Joseph Haydn
+        - title: Les Chansons des Roses
+          composer: Morten Lauridsen
+        - title: Fast Car
+          composer: arr. Andre van der Merwe
+        - title: Sweet Rivers
+          composer: arr. Shawn Kirchner
+        - title: Hallelujah
+          composer: arr. Shawn Kirchner
   - On My Way:
       group: Knoxville Choral Society
       concerts:
